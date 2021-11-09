@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TareaFraseAmilcarM</string>
+    <string name="ingrese_una_frase">Ingrese una frase</string>
+    <string name="calcular">Calcular</string>
+    <string name="cantidad_digitos">Cantidad de digitos: %1$d</string>
+    <string name="cantidad_mayusculas">Cantidad de mayusculas: %1$d</string>
+    <string name="cantidad_minusculas">Cantidad de minusculas: %1$d</string>
+    <string name="cantidad_espacios">Cantidad de espacios: %1$d</string>
+    <string name="cantidad_puntos">Cantidad de puntos: %1$d</string>
+    <string name="cantidad_comas">Cantidad de comas: %1$d</string>
+    <string name="longitud">Cantidad de caracteres: %1$d</string>
+    <string name="cantidad_palabras">Cantidad de palabras: %1$d</string>
+    <string name="desconocido">Cantidad de caracteres desconocidos: %1$d</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
